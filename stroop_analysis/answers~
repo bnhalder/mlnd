@@ -1,0 +1,18 @@
+14.963
+
+47.693
+
+1. What is our independent variable? What is our dependent variable?
+The independent variable is the type of condition on which the participants were tested on, viz, congruent and incongruent words conditions. Congruent word conditon means the meaning of the words and the color of ink in which they were displayed are same. Incongruent, on the other hand, means the meaning of words and the color of ink in which they were displayed are different. The number of words were same for both the conditions, so, it can not be a variable affecting the result. The participants were also same for both the word condition type. So, considering all other factors same, we can say that the type of word condition in the independent variable here.
+
+The dependent variable is the time it takes to name the ink colors, which can be think of as a measure of the performance of the participants in the experiment. There will be two results for each participant, one for the congruent case and the other for the incongruent case. Let us call the two cases as type I and type II from now on.
+
+2. What is an appropriate set of hypotheses for this task? What kind of statistical test do you expect to perform? Justify your choices.
+We expect that the result of this experiment will be different depending on the type of word condition used. And we seek to find enough evidence in the data to support our claim. Lets assume the mean of the sample time taken for congruent is mu1 and for incongruent is mu2. Our null hypothesis would be mu0 = mu1 or mu0 - mu1 = 0. Here '=' signifies statictically equivalent. And the alternative hypothesis would be mu0 != mu1 or mu1 - mu2 != 0
+
+
+6. Optional: What do you think is responsible for the effects observed? Can you think of an alternative or similar task that would result in a similar effect? Some research about the problem will be helpful for thinking about these two questions!
+
+An alternative which can be tried is to use all words in black ink and then conflicting ink color. Also only colors without any words may also give another experiment. In this case we can use blocks of colors without any words inside.
+
+Such interference were explained by the automation of reading, where the mind automatically determines the semantic meaning of the word (it reads the word "red" and thinks of the color "red"), and then must intentionally check itself and identify instead the color of the word (the ink is a color other than red), a process that is not automated.[1]
